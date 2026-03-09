@@ -31,7 +31,7 @@ Mulailah dengan menginstal pustaka melalui pengelola paket pilihan Anda, lalu ik
 ## Cara memakai?
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:Razzdev19/baileys"
+  "@whiskeysockets/baileys": "github:RazzGPT/bail"
 }
 ```
 ## Import
